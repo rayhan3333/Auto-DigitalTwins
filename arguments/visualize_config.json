@@ -1,0 +1,306 @@
+{
+    "sapien": {
+        "100481_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "101284_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "101287_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "101808_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "101908_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "103015_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "103811_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "10489_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "10655_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "1280_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "168_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "25493_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "30666_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "31249_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "45194_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "45503_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "45612_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "47648_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "8961_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        },
+        "9016_new": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.1,
+                    0.1
+                ]
+            }
+        }
+    },
+    "realscan": {
+        "cab_1r_1p": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.05,
+                    0.05
+                ]
+            }
+        },
+        "coffeemachine_2r": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.05,
+                    0.05
+                ]
+            }
+        },
+        "mac_1r": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.05,
+                    0.05
+                ]
+            }
+        },
+        "chair_1r": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.05,
+                    0.05
+                ]
+            }
+        },
+        "microwave_1r": {
+            "joint_value": {
+                "r_range": [
+                    -0.2,
+                    0.2
+                ],
+                "p_range": [
+                    -0.05,
+                    0.05
+                ]
+            }
+        }
+    }
+}

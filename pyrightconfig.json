@@ -1,0 +1,6 @@
+{
+    "exclude": [
+        "outputs/**",
+        "utils/pointnet_lib/**",
+    ]
+}
